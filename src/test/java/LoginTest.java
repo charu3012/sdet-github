@@ -37,7 +37,7 @@ public class LoginTest {
         Assert.assertEquals(isProductTitleDisplayed,true);
         // quit driver
         driver.quit();
-        driver.quit();
+
     }
 
 }
